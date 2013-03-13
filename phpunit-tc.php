@@ -1,5 +1,5 @@
 <?php
-// require_once 'PHPUnit/Autoload.php';
+require_once __DIR__ . '/vendor/autoload.php';
 
 class TeamCity_PHPUnit_Framework_TestListener
     implements PHPUnit_Framework_TestListener
